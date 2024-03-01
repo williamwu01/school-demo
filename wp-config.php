@@ -20,13 +20,13 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'dbet0seftkkaa8' );
+define( 'DB_NAME', 'school-demo' );
 
 /** Database username */
-define( 'DB_USER', 'ut2bfximvyomu' );
+define( 'DB_USER', 'root' );
 
 /** Database password */
-define( 'DB_PASSWORD', '^:v43jbS1d|4' );
+define( 'DB_PASSWORD', 'root' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );

@@ -186,3 +186,8 @@ function fwd_excerpt_more() {
   return '...';
 }
 add_filter( 'excerpt_more', 'fwd_excerpt_more' );
+
+/**
+ * Custom Post Types & Taxonomies
+ */
+require get_template_directory() . '/inc/cpt-taxonomy.php';
